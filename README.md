@@ -25,6 +25,8 @@ Welcome to my GitHub! I’m a passionate data analyst in the making with a focus
 ### 🌐 Connect with Me
 
 - **LinkedIn:** [MUHAMMAD NURAIMAN BIN MOHD TELIWON](www.linkedin.com/in/nur-aiman-a9513832a)
+- **Kaggle:** [nuraiman973](https://www.kaggle.com/nuraiman973)
+- **Tableau Public:** [nur.aiman2193](https://public.tableau.com/app/profile/nur.aiman2193/vizzes)
 - **Email:** nuraiman9703@gmail.com
 
 Let’s connect, collaborate, or just geek out over data!
