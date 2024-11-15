@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm NURAIMAN 🚀
 
-Welcome to my GitHub! I’m a passionate data analyst in the making with a focus on **data analytics**, **data visualization**, and a growing interest in **machine learning** and **game industry data**. Here, you'll find a mix of projects that highlight my journey and skills, as well as explorations into gaming data trends and bike share analytics. 
+Welcome to my GitHub! I’m a passionate data analyst in the making with a focus on **data analytics**, **data visualization**, and a growing interest in **machine learning**. Here, you'll find a mix of projects that highlight my journey and skills, as well as explorations into gaming data trends and bike share analytics. 
 
 ---
 
